@@ -27,6 +27,27 @@ main {
   padding: 1rem 0;
 }
 
+footer {
+  position: absolute;
+  margin: 0;
+  width: 100%;
+  min-height: 50vh;
+  background-color: rgb(221, 221, 221);
+}
+
+footer h3 {
+  margin-left: 15px;
+  font-family: cursive;
+  color: #f5576c;
+}
+
+footer p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(17, 19, 18);
+  text-align: justify;
+  padding: 0 20px;
+}
+
 .container {
   max-width: 960px;
   width: 100%;
